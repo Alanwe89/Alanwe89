@@ -1,12 +1,13 @@
 ## 👋 Hello, I'm Alan Vieira!
 
-🇧🇷 Sou um entusiasta de tecnologia, QA por paixão e eterno aprendiz.  
-🚀 Sempre explorando novos caminhos na área de testes e automações.  
+🇧🇷 Sou um entusiasta de tecnologia, QA por paixão e um eterno aprendiz.  
+🚀 Sempre explorando novos caminhos na área de testes e automação.  
 📚 Aqui compartilho um pouco do que já aprendi e continuo aprendendo!
 
 ---
 
-### 📬 Entre em contato ou me mande uma dica de estudo:
+### 📬 Entre em contato ou me envie uma dica de estudo:
+
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanvieirawe89@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-vieiraqa/)
 
